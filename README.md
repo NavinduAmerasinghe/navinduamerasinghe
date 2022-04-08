@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, Navindu Amerasinghe
 #### Software Engineer | Developer
-![Software Engineer | Developer](https://files.fm/u/8azgqvg4k)
+![Software Engineer | Developer](https://github.com/NavinduAmerasinghe/navinduamerasinghe/blob/main/Github%20banner.jpeg)
 
 I am a motivated, responsible, adaptable, and enthusiastic Software Engineering Undergraduate. I am an eager learner and team player with leadership, responsibility molding, and communication skills who is eager to give my best.Competent in a wide range of programming languages, tools, and platforms, with a strong desire to learn and master new technologies. I am eager to expand my knowledge and gain experience to build a solid foundation in the development and understanding of technology.
 
