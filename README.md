@@ -1,4 +1,4 @@
-### Hi there 👋, Navindu Amerasinghe
+### Hi there 👋, I'm Navindu Amerasinghe
 #### Software Engineer | Developer
 ![Software Engineer | Developer](https://github.com/NavinduAmerasinghe/navinduamerasinghe/blob/main/Github%20banner.jpeg)
 
