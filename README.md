@@ -23,7 +23,7 @@ Skills:  MERN / JAVA /  JS / HTML / CSS
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navinduamerasinghe&show_icons=true&locale=en&layout=compact" alt="navinduamerasinghe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinduamerasinghee&show_icons=true&locale=en" alt="navinduamerasinghe" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinduamerasinghee&show_icons=true&locale=en" alt="navinduamerasinghe" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navinduamerasinghe&" alt="navinduamerasinghe" /></p>
 
