@@ -19,13 +19,13 @@ Skills:  MERN / JAVA /  JS / HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navinduamerasinghe)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navinduamerasinghe&" alt="navinduamerasinghe" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navinduamerasinghe&show_icons=true&locale=en&layout=compact" alt="navinduamerasinghe" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinduamerasinghee&show_icons=true&locale=en" alt="navinduamerasinghe" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navinduamerasinghe&" alt="navinduamerasinghe" /></p>
+
 
 
 <!-- <h3 align="left">Connect with me:</h3>
