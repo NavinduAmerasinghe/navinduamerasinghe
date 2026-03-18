@@ -160,7 +160,7 @@ Python, YOLO, IoT, Computer Vision, Web & Mobile Applications
 
 ## Education
 
-**T[ampere University](https://www.tuni.fi/en), Finland**
+**[Tampere University](https://www.tuni.fi/en), Finland**
 Master’s in Software, Web & Cloud Technologies *(Ongoing)*
 
 **[Sri Lanka Institute of Information Technology (SLIIT)](https://www.sliit.lk/)**
