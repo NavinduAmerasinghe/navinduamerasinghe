@@ -2,7 +2,11 @@
 #### Software Engineer | Developer
 ![Software Engineer | Developer](https://github.com/NavinduAmerasinghe/navinduamerasinghe/blob/main/Github%20banner.jpeg)
 
-I am a motivated, responsible, adaptable, and enthusiastic Software Engineering Undergraduate. I am an eager learner and team player with leadership, responsibility molding, and communication skills who is eager to give my best.Competent in a wide range of programming languages, tools, and platforms, with a strong desire to learn and master new technologies. I am eager to expand my knowledge and gain experience to build a solid foundation in the development and understanding of technology.
+Software Engineer with 4+ years of experience building scalable software systems and AI-driven applications, currently pursuing a Master’s in Software, Web & Cloud Technologies at Tampere University.
+Specialized in architecting AI-powered, cloud-native systems, with proven experience designing and delivering end-to-end intelligent platforms, including LLM-driven applications, secure DevOps pipelines, and data-intensive architectures, with a strong emphasis on scalability, robustness, and production-grade quality.
+Highly skilled in integrating AI/ML workflows, backend systems, and modern frontend frameworks into cohesive, high-impact solutions, leveraging technologies such as LangChain, vector databases, and automated MLOps pipelines.
+Strong foundation in system design, distributed systems, and secure software engineering, with hands-on experience implementing CI/CD pipelines, DevSecOps practices, and secure-by-design principles aligned with OWASP standards.
+Passionate about building intelligent, resilient systems that operate at scale and deliver real-world impact.
 
 Skills:  MERN / JAVA /  JS / HTML / CSS
 
