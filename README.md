@@ -1,6 +1,7 @@
 # Navindu Amerasinghe
 
 **Software Engineer | Full Stack Developer | AI-Powered Systems | Cloud & DevOps**
+
 <img width="1536" height="422" alt="navinduBanner" src="https://github.com/user-attachments/assets/7ec8436d-9f39-41d7-99ca-410df1fbb510" />
 
 Software Engineer with 5+ years of experience designing and building scalable, production-grade software systems and AI-driven platforms. Currently pursuing a Master’s in Software, Web & Cloud Technologies at Tampere University, Finland.
@@ -191,11 +192,11 @@ Professional Qualification in Management Accounting
 
 ## Professional Links
 
-LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/NavinduAmerasinghe) / 
-Portfolio: [https://navindu-amerasinghe.vercel.app/](https://navindu-amerasinghe.vercel.app/) / 
-GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/NavinduAmerasinghe) / 
-Email: [your-email@example.com](mailto:navinduamerasinghe@gmail.com) / 
-Mobile: +358 44 950 8069
+* LinkedIn: [https://www.linkedin.com/in/NavinduAmerasinghe](https://www.linkedin.com/in/NavinduAmerasinghe)  
+* Portfolio: [https://navindu-amerasinghe.vercel.app/](https://navindu-amerasinghe.vercel.app/) / 
+* GitHub: [https://github.com/NavinduAmerasinghe](https://github.com/NavinduAmerasinghe) / 
+* Email: [navinduamerasinghe@gmail.com](mailto:navinduamerasinghe@gmail.com) / 
+* Mobile: +358 44 950 8069
 
 
 ---
