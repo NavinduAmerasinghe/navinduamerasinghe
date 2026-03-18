@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Navindu Amerasinghe
 #### Software Engineer | Developer
-![Software Engineer | Developer](https://github.com/NavinduAmerasinghe/navinduamerasinghe/blob/main/Github%20banner.jpeg)
+![Software Engineer | Developer]
 <img width="1536" height="1024" alt="navinduBanner" src="https://github.com/user-attachments/assets/6cfcb474-45ab-40f3-a312-10e27f6ba29b" />
 
 Software Engineer with 4+ years of experience building scalable software systems and AI-driven applications, currently pursuing a Master’s in Software, Web & Cloud Technologies at Tampere University.
