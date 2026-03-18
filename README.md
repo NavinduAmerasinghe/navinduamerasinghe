@@ -1,45 +1,208 @@
-### Hi there 👋, I'm Navindu Amerasinghe
-#### Software Engineer | Developer
-![Software Engineer | Developer]
-<img width="1536" height="1024" alt="navinduBanner" src="https://github.com/user-attachments/assets/6cfcb474-45ab-40f3-a312-10e27f6ba29b" />
+# Navindu Amerasinghe
 
-Software Engineer with 4+ years of experience building scalable software systems and AI-driven applications, currently pursuing a Master’s in Software, Web & Cloud Technologies at Tampere University.
-Specialized in architecting AI-powered, cloud-native systems, with proven experience designing and delivering end-to-end intelligent platforms, including LLM-driven applications, secure DevOps pipelines, and data-intensive architectures, with a strong emphasis on scalability, robustness, and production-grade quality.
-Highly skilled in integrating AI/ML workflows, backend systems, and modern frontend frameworks into cohesive, high-impact solutions, leveraging technologies such as LangChain, vector databases, and automated MLOps pipelines.
-Strong foundation in system design, distributed systems, and secure software engineering, with hands-on experience implementing CI/CD pipelines, DevSecOps practices, and secure-by-design principles aligned with OWASP standards.
-Passionate about building intelligent, resilient systems that operate at scale and deliver real-world impact.
+**Software Engineer | Full Stack Developer | AI-Powered Systems | Cloud & DevOps**
+<img width="1536" height="422" alt="navinduBanner" src="https://github.com/user-attachments/assets/7ec8436d-9f39-41d7-99ca-410df1fbb510" />
 
-Skills:  MERN / JAVA /  JS / HTML / CSS
+Software Engineer with 4+ years of experience designing and building scalable, production-grade software systems and AI-driven platforms. Currently pursuing a Master’s in Software, Web & Cloud Technologies at Tampere University, Finland.
 
-- 🔭 I’m currently working on Yellow Hearts 
-- 🌱 I’m currently learning MEARN , BlockChain 
-- 💬 Ask me about React ,HTML,CSS,JS 
-- 📫 How to reach me: navinduamerasinghe@gmail.com
-- ⚡ KNOW MORE ABOUT ME: https://drive.google.com/file/d/1QHCpfF2S6VdpOElS3f1P2kW8o9uf7bF7/view?usp=sharing 
+Experienced in delivering end-to-end systems across **AI/ML**, **full-stack engineering**, **cloud-native architectures**, and **DevSecOps**, with a strong focus on building reliable, secure, and high-impact solutions.
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/NavinduAmerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NavinduAmerasinghe" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/navindu-amerasinghe-3385611b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navindu-amerasinghe-3385611b9" height="30" width="40" /></a>
-<a href="https://www.facebook.com/NavinduAmerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NavinduAmerasinghe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/navindu012/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navindu012" height="30" width="40" /></a>
-</p>
+## Profile Summary
 
+* Master’s student at Tampere University specializing in modern software systems and cloud technologies
+* Proven experience in enterprise systems, ERP/POS platforms, and large-scale integrations
+* Strong background in AI-powered applications, including LLMs, RAG pipelines, and intelligent systems
+* Hands-on expertise in DevOps, MLOps, and secure software engineering practices
+* Focused on building scalable architectures with real-world impact
 
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navinduamerasinghe)](https://github.com/anuraghazra/github-readme-stats)
+## Core Competencies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navinduamerasinghe&" alt="navinduamerasinghe" /></p>
+**Artificial Intelligence & Data Systems**
+Machine Learning, Deep Learning, NLP, LLMs, Retrieval-Augmented Generation (RAG), LangChain, Vector Databases
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navinduamerasinghe&show_icons=true&locale=en&layout=compact" alt="navinduamerasinghe" /></p>
+**Backend Engineering & Systems Design**
+Python, FastAPI, Node.js, Microservices, Distributed Systems, REST APIs
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navinduamerasinghee&show_icons=true&locale=en" alt="navinduamerasinghe" /></p> -->
+**Frontend Engineering**
+React, TypeScript, JavaScript, Modern UI Architectures
 
+**Cloud, DevOps & MLOps**
+Docker, Kubernetes, CI/CD Pipelines, Jenkins, GitHub Actions, MLflow, DVC
 
+**Data & Storage Systems**
+PostgreSQL, MySQL, SQLite, Redis, Vector Databases
 
+**Security & Reliability**
+Secure Coding, OWASP Top 10, JWT Authentication, Static Code Analysis, DevSecOps
 
+---
 
+## Selected Projects
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> -->
+### EduChat / EduLens — AI-Powered Learning Platform
+
+Designed and extended a production-grade AI-assisted learning platform integrated with a university LMS via LTI. Implemented LLM-powered features and RAG pipelines to support intelligent learning workflows.
+
+**Key Contributions**
+
+* Developed AI-driven chat and contextual learning support
+* Built RAG architecture using LangChain and vector databases
+* Designed analytics dashboards for educators
+* Supported GDPR-compliant AI deployment
+
+**Tech Stack**
+React, TypeScript, Python, LangChain, Vector Databases, LTI
+
+---
+
+### Secure AI Programming Assistant
+
+Developed a secure AI-powered platform for automated vulnerability detection and secure coding guidance.
+
+**Key Contributions**
+
+* Integrated static analysis tools for vulnerability detection
+* Built RAG-based knowledge retrieval for secure coding practices
+* Designed secure APIs with JWT-based authentication
+* Applied OWASP-based secure programming principles
+
+**Tech Stack**
+FastAPI, React, LangChain, FAISS/Chroma, Semgrep, Bandit
+
+---
+
+### POS-Centric Enterprise ERP System
+
+Contributed to the development of a scalable ERP platform supporting sales, inventory, and payment systems.
+
+**Key Contributions**
+
+* Designed and implemented backend services using microservices architecture
+* Built high-performance APIs with Node.js and Fastify
+* Improved performance using Redis-based caching
+* Enabled reliable communication across distributed components
+
+**Tech Stack**
+Node.js, Fastify, Redis, REST APIs, Microservices
+
+---
+
+### Enterprise Banking Integration Platform (Sage 300 ERP)
+
+Designed a system enabling secure integration between banking systems and ERP platforms.
+
+**Key Contributions**
+
+* Built API-driven integration workflows
+* Enabled real-time financial data synchronization
+* Improved automation of enterprise financial operations
+* Designed scalable and interoperable system architecture
+
+**Tech Stack**
+ERP Integration, REST APIs, SQL
+
+---
+
+### AI-Based Road Safety & Wildlife Protection System
+
+Developed an AI and IoT-based system to detect and prevent animal-vehicle collisions.
+
+**Key Contributions**
+
+* Implemented computer vision using YOLO models
+* Integrated IoT sensors for real-time detection
+* Developed web and mobile interfaces for alerts
+* Delivered a research-backed, real-world safety solution
+
+**Tech Stack**
+Python, YOLO, IoT, Computer Vision, Web & Mobile Applications
+
+---
+
+## Awards & Recognition
+
+* Best Presales Award (POS Systems) — Recognized for solution design and technical impact
+* Top Billable Contributor — ZILLIONe
+* Nominee — NBQSA & World Summit Awards (WSA)
+* Published Research — IJISRT (AI-driven road safety systems)
+
+---
+
+## Publications
+
+Amerasinghe, N.D.K., et al. (2024)
+*Real-Time Road Safety: A Web and Mobile Application Approach to Mitigating Animal-Vehicle Conflicts in Sri Lanka*
+International Journal of Innovative Science and Research Technology (IJISRT), Volume 9, Issue 8
+
+---
+
+## Education
+
+**Tampere University, Finland**
+Master’s in Software, Web & Cloud Technologies *(Ongoing)*
+
+**Sri Lanka Institute of Information Technology (SLIIT)**
+BSc in Software Engineering
+
+**CIMA**
+Professional Qualification in Management Accounting
+
+---
+
+## Certifications
+
+* Google IT Automation with Python
+* Microsoft Azure Certifications (AZ-900, AZ-104, AZ-500, MS-900, MS-102 – in progress)
+* Docker & Kubernetes (CKA)
+* HarvardX CS50’s AI with Python
+
+---
+
+## Professional Strengths
+
+* Designing scalable, production-grade systems
+* Integrating AI/ML into real-world applications
+* Building secure, cloud-native architectures
+* Delivering enterprise-grade solutions
+* Working across full-stack, DevOps, and AI systems
+
+---
+
+## Professional Links
+
+LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
+Portfolio: [https://navindu-amerasinghe.vercel.app/](https://navindu-amerasinghe.vercel.app/)
+GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+Email: [your-email@example.com](mailto:your-email@example.com)
+Mobile: +358 44 950 8069
+
+---
+
+## GitHub Metrics
+
+```md
+https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight
+```
+
+---
+
+## Availability
+
+Open to:
+
+* Software Engineering Roles
+* Full Stack Development
+* AI / ML Engineering
+* Cloud, DevOps, and MLOps Opportunities
+* Research and Innovation Projects
+
+---
+
+## Statement
+
+Focused on building scalable, intelligent, and secure software systems that solve real-world problems. Strong interest in combining AI with modern software engineering to deliver high-impact solutions.
