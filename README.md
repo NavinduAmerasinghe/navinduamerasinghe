@@ -3,7 +3,7 @@
 **Software Engineer | Full Stack Developer | AI-Powered Systems | Cloud & DevOps**
 <img width="1536" height="422" alt="navinduBanner" src="https://github.com/user-attachments/assets/7ec8436d-9f39-41d7-99ca-410df1fbb510" />
 
-Software Engineer with 4+ years of experience designing and building scalable, production-grade software systems and AI-driven platforms. Currently pursuing a Master’s in Software, Web & Cloud Technologies at Tampere University, Finland.
+Software Engineer with 5+ years of experience designing and building scalable, production-grade software systems and AI-driven platforms. Currently pursuing a Master’s in Software, Web & Cloud Technologies at Tampere University, Finland.
 
 Experienced in delivering end-to-end systems across **AI/ML**, **full-stack engineering**, **cloud-native architectures**, and **DevSecOps**, with a strong focus on building reliable, secure, and high-impact solutions.
 
@@ -125,30 +125,47 @@ Python, YOLO, IoT, Computer Vision, Web & Mobile Applications
 
 ## Awards & Recognition
 
-* Best Presales Award (POS Systems) — Recognized for solution design and technical impact
-* Top Billable Contributor — ZILLIONe
-* Nominee — NBQSA & World Summit Awards (WSA)
-* Published Research — IJISRT (AI-driven road safety systems)
+* Best Presales Award (POS Systems) – Recognized for technical excellence, solution design, and measurable customer impact in enterprise retail systems.
+* Nominee – NBQSA & World Summit Awards (WSA) – Selected for innovation and real-world impact of an AI-powered wildlife collision prevention system.
+* Academic Excellence – Software Engineering – Achieved strong academic performance with a GPA of 3.61/4.0
 
 ---
 
 ## Publications
 
-Amerasinghe, N.D.K., et al. (2024)
-*Real-Time Road Safety: A Web and Mobile Application Approach to Mitigating Animal-Vehicle Conflicts in Sri Lanka*
-International Journal of Innovative Science and Research Technology (IJISRT), Volume 9, Issue 8
+🔹 **Real-Time Road Safety: A Web and Mobile Application Approach to Mitigating Animal-Vehicle Conflicts in Sri Lanka**  
+**Authors:** Navindu D.K. Amerasinghe et al.  
+**Published in:** International Journal of Innovative Science and Research Technology (IJISRT), Vol. 9, Issue 8, 2024  
+**Focus:** AI-powered road safety system using geofencing, computer vision, and IoT for wildlife collision prevention  
+🔗 https://www.scribd.com/document/785090682/Real-Time-Road-Safety-A-V
+
+---
+
+🔹 **IoT-Enhanced Smart Surveillance System for Wildlife Collision Prevention on Sri Lankan Roads**  
+**Authors:** Navindu D.K. Amerasinghe, Prof. Anuradha Jayakody  
+**Year:** 2023  
+**Focus:** Edge-based IoT + real-time monitoring system for wildlife detection and driver alerting  
+🔗 https://www.scribd.com/document/681505017/IoT-Enhanced-Smart-Surveillance
+
+---
+
+🔹 **Problems Faced by the Agricultural Sector and Solutions for the Impending Food Crisis in Sri Lanka**  
+**Author:** Navindu D.K. Amerasinghe  
+**Year:** 2022  
+**Focus:** Agricultural challenges, food security, and data-driven policy recommendations  
+🔗 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4248740
 
 ---
 
 ## Education
 
-**Tampere University, Finland**
+**T[ampere University](https://www.tuni.fi/en), Finland**
 Master’s in Software, Web & Cloud Technologies *(Ongoing)*
 
-**Sri Lanka Institute of Information Technology (SLIIT)**
+**[Sri Lanka Institute of Information Technology (SLIIT)](https://www.sliit.lk/)**
 BSc in Software Engineering
 
-**CIMA**
+**[CIMA](https://www.aicpa-cima.com/home)**
 Professional Qualification in Management Accounting
 
 ---
@@ -174,20 +191,12 @@ Professional Qualification in Management Accounting
 
 ## Professional Links
 
-LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
-Portfolio: [https://navindu-amerasinghe.vercel.app/](https://navindu-amerasinghe.vercel.app/)
-GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-Email: [your-email@example.com](mailto:your-email@example.com)
+LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/NavinduAmerasinghe) / 
+Portfolio: [https://navindu-amerasinghe.vercel.app/](https://navindu-amerasinghe.vercel.app/) / 
+GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/NavinduAmerasinghe) / 
+Email: [your-email@example.com](mailto:navinduamerasinghe@gmail.com) / 
 Mobile: +358 44 950 8069
 
----
-
-## GitHub Metrics
-
-```md
-https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight
-```
 
 ---
 
