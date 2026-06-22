@@ -1,218 +1,100 @@
-# Navindu Amerasinghe
+<img width="100%" alt="Navindu Amerasinghe" src="https://github.com/user-attachments/assets/7ec8436d-9f39-41d7-99ca-410df1fbb510" />
 
-**Software Engineer | Full Stack Developer | AI-Powered Systems | Cloud & DevOps**
+<h1 align="center">Hi, I'm Navindu 👋</h1>
 
-<img width="1536" height="422" alt="navinduBanner" src="https://github.com/user-attachments/assets/7ec8436d-9f39-41d7-99ca-410df1fbb510" />
+<p align="center">
+  <b>AI & Full-Stack Software Engineer</b> &nbsp;•&nbsp; Cloud-Native Systems &nbsp;•&nbsp; DevOps
+</p>
 
-Software Engineer with 5+ years of experience designing and building scalable, production-grade software systems and AI-driven platforms. Currently pursuing a Master’s in Software, Web & Cloud Technologies at Tampere University, Finland.
+<p align="center">
+  Software Engineer with <b>5+ years</b> building scalable, production-grade systems and AI-driven platforms.<br/>
+  Currently pursuing a <b>Master's in Software, Web & Cloud Technologies</b> at Tampere University, Finland 🇫🇮
+</p>
 
-Experienced in delivering end-to-end systems across **AI/ML**, **full-stack engineering**, **cloud-native architectures**, and **DevSecOps**, with a strong focus on building reliable, secure, and high-impact solutions.
-
----
-
-## Profile Summary
-
-* Master’s student at Tampere University specializing in modern software systems and cloud technologies
-* Proven experience in enterprise systems, ERP/POS platforms, and large-scale integrations
-* Strong background in AI-powered applications, including LLMs, RAG pipelines, and intelligent systems
-* Hands-on expertise in DevOps, MLOps, and secure software engineering practices
-* Focused on building scalable architectures with real-world impact
-
----
-
-## Core Competencies
-
-**Artificial Intelligence & Data Systems**
-Machine Learning, Deep Learning, NLP, LLMs, Retrieval-Augmented Generation (RAG), LangChain, Vector Databases
-
-**Backend Engineering & Systems Design**
-Python, FastAPI, Node.js, Microservices, Distributed Systems, REST APIs
-
-**Frontend Engineering**
-React, TypeScript, JavaScript, Modern UI Architectures
-
-**Cloud, DevOps & MLOps**
-Docker, Kubernetes, CI/CD Pipelines, Jenkins, GitHub Actions, MLflow, DVC
-
-**Data & Storage Systems**
-PostgreSQL, MySQL, SQLite, Redis, Vector Databases
-
-**Security & Reliability**
-Secure Coding, OWASP Top 10, JWT Authentication, Static Code Analysis, DevSecOps
+<p align="center">
+  <a href="https://navindu-amerasinghe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/NavinduAmerasinghe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:navinduamerasinghe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## Selected Projects
+### 🧠 What I do
 
-### EduChat / EduLens — AI-Powered Learning Platform
-
-Designed and extended a production-grade AI-assisted learning platform integrated with a university LMS via LTI. Implemented LLM-powered features and RAG pipelines to support intelligent learning workflows.
-
-**Key Contributions**
-
-* Developed AI-driven chat and contextual learning support
-* Built RAG architecture using LangChain and vector databases
-* Designed analytics dashboards for educators
-* Supported GDPR-compliant AI deployment
-
-**Tech Stack**
-React, TypeScript, Python, LangChain, Vector Databases, LTI
+I build intelligent, secure software end-to-end — from **LLM/RAG pipelines** and full-stack apps to **cloud-native, DevSecOps-ready** architectures. Background spans enterprise ERP/POS platforms, large-scale integrations, and AI research with real-world impact.
 
 ---
 
-### Secure AI Programming Assistant
+### 🛠️ Tech Stack
 
-Developed a secure AI-powered platform for automated vulnerability detection and secure coding guidance.
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DBs-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 
-**Key Contributions**
+**Backend & Frontend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-* Integrated static analysis tools for vulnerability detection
-* Built RAG-based knowledge retrieval for secure coding practices
-* Designed secure APIs with JWT-based authentication
-* Applied OWASP-based secure programming principles
+**Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Tech Stack**
-FastAPI, React, LangChain, FAISS/Chroma, Semgrep, Bandit
-
----
-
-### POS-Centric Enterprise ERP System
-
-Contributed to the development of a scalable ERP platform supporting sales, inventory, and payment systems.
-
-**Key Contributions**
-
-* Designed and implemented backend services using microservices architecture
-* Built high-performance APIs with Node.js and Fastify
-* Improved performance using Redis-based caching
-* Enabled reliable communication across distributed components
-
-**Tech Stack**
-Node.js, Fastify, Redis, REST APIs, Microservices
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-### Enterprise Banking Integration Platform (Sage 300 ERP)
+### 🚀 Featured Projects
 
-Designed a system enabling secure integration between banking systems and ERP platforms.
+**🎓 [EduChat / EduLens](#)** — AI-Powered Learning Platform
+> Production AI learning platform integrated with a university LMS via LTI. Built LLM-powered chat and RAG pipelines (LangChain + vector DBs) plus educator analytics, with GDPR-compliant deployment.
+> `React` `TypeScript` `Python` `LangChain` `Vector DBs`
 
-**Key Contributions**
+**🔐 [Secure AI Programming Assistant](#)** — Automated Vulnerability Detection
+> AI platform that flags vulnerabilities and surfaces secure-coding guidance via RAG, combining static analysis (Semgrep, Bandit) with JWT-secured APIs built on OWASP principles.
+> `FastAPI` `React` `LangChain` `FAISS/Chroma`
 
-* Built API-driven integration workflows
-* Enabled real-time financial data synchronization
-* Improved automation of enterprise financial operations
-* Designed scalable and interoperable system architecture
+**🦌 [AI Road Safety & Wildlife Protection](#)** — Computer Vision + IoT
+> AI/IoT system detecting and preventing animal-vehicle collisions using YOLO and real-time sensors. WSA & NBQSA nominee, research-backed and published.
+> `Python` `YOLO` `IoT` `Computer Vision`
 
-**Tech Stack**
-ERP Integration, REST APIs, SQL
-
----
-
-### AI-Based Road Safety & Wildlife Protection System
-
-Developed an AI and IoT-based system to detect and prevent animal-vehicle collisions.
-
-**Key Contributions**
-
-* Implemented computer vision using YOLO models
-* Integrated IoT sensors for real-time detection
-* Developed web and mobile interfaces for alerts
-* Delivered a research-backed, real-world safety solution
-
-**Tech Stack**
-Python, YOLO, IoT, Computer Vision, Web & Mobile Applications
+<sub>↳ Replace the `#` links with your actual repo URLs once they're public.</sub>
 
 ---
 
-## Awards & Recognition
+### 📚 Selected Publications
 
-* Best Presales Award (POS Systems) – Recognized for technical excellence, solution design, and measurable customer impact in enterprise retail systems.
-* Nominee – NBQSA & World Summit Awards (WSA) – Selected for innovation and real-world impact of an AI-powered wildlife collision prevention system.
-* Academic Excellence – Software Engineering – Achieved strong academic performance with a GPA of 3.61/4.0
-
----
-
-## Publications
-
-🔹 **Real-Time Road Safety: A Web and Mobile Application Approach to Mitigating Animal-Vehicle Conflicts in Sri Lanka**  
-**Authors:** Navindu D.K. Amerasinghe et al.  
-**Published in:** International Journal of Innovative Science and Research Technology (IJISRT), Vol. 9, Issue 8, 2024  
-**Focus:** AI-powered road safety system using geofencing, computer vision, and IoT for wildlife collision prevention  
-🔗 https://www.scribd.com/document/785090682/Real-Time-Road-Safety-A-V
+- **Real-Time Road Safety: Mitigating Animal-Vehicle Conflicts in Sri Lanka** — *IJISRT*, Vol. 9, Issue 8 (2024)
+- **IoT-Enhanced Smart Surveillance for Wildlife Collision Prevention** — N.D.K. Amerasinghe & Prof. A. Jayakody (2023)
+- **[Problems Faced by the Agricultural Sector & Solutions for Sri Lanka's Food Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4248740)** — *SSRN* (2022)
 
 ---
 
-🔹 **IoT-Enhanced Smart Surveillance System for Wildlife Collision Prevention on Sri Lankan Roads**  
-**Authors:** Navindu D.K. Amerasinghe, Prof. Anuradha Jayakody  
-**Year:** 2023  
-**Focus:** Edge-based IoT + real-time monitoring system for wildlife detection and driver alerting  
-🔗 https://www.scribd.com/document/681505017/IoT-Enhanced-Smart-Surveillance
+### 🏆 Highlights
+
+🥇 Best Presales Award (Enterprise POS) &nbsp;•&nbsp; 🌍 WSA & NBQSA Nominee &nbsp;•&nbsp; 🎓 BSc Software Engineering, GPA 3.61/4.0 (SLIIT)
+Azure certified (AZ-900, AZ-104, AZ-500) &nbsp;•&nbsp; CKA &nbsp;•&nbsp; HarvardX CS50 AI
 
 ---
 
-🔹 **Problems Faced by the Agricultural Sector and Solutions for the Impending Food Crisis in Sri Lanka**  
-**Author:** Navindu D.K. Amerasinghe  
-**Year:** 2022  
-**Focus:** Agricultural challenges, food security, and data-driven policy recommendations  
-🔗 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4248740
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NavinduAmerasinghe&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduAmerasinghe&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</p>
 
 ---
 
-## Education
-
-**[Tampere University](https://www.tuni.fi/en), Finland**
-Master’s in Software, Web & Cloud Technologies *(Ongoing)*
-
-**[Sri Lanka Institute of Information Technology (SLIIT)](https://www.sliit.lk/)**
-BSc in Software Engineering
-
-**[CIMA](https://www.aicpa-cima.com/home)**
-Professional Qualification in Management Accounting
-
----
-
-## Certifications
-
-* Google IT Automation with Python
-* Microsoft Azure Certifications (AZ-900, AZ-104, AZ-500, MS-900, MS-102 – in progress)
-* Docker & Kubernetes (CKA)
-* HarvardX CS50’s AI with Python
-
----
-
-## Professional Strengths
-
-* Designing scalable, production-grade systems
-* Integrating AI/ML into real-world applications
-* Building secure, cloud-native architectures
-* Delivering enterprise-grade solutions
-* Working across full-stack, DevOps, and AI systems
-
----
-
-## Professional Links
-
-* LinkedIn: [https://www.linkedin.com/in/NavinduAmerasinghe](https://www.linkedin.com/in/NavinduAmerasinghe)  
-* Portfolio: [https://navindu-amerasinghe.vercel.app/](https://navindu-amerasinghe.vercel.app/) / 
-* GitHub: [https://github.com/NavinduAmerasinghe](https://github.com/NavinduAmerasinghe) / 
-* Email: [navinduamerasinghe@gmail.com](mailto:navinduamerasinghe@gmail.com) / 
-* Mobile: +358 44 950 8069
-
-
----
-
-## Availability
-
-Open to:
-
-* Software Engineering Roles
-* Full Stack Development
-* AI / ML Engineering
-* Cloud, DevOps, and MLOps Opportunities
-* Research and Innovation Projects
-
----
-
-## Statement
-
-Focused on building scalable, intelligent, and secure software systems that solve real-world problems. Strong interest in combining AI with modern software engineering to deliver high-impact solutions.
+<p align="center">
+  💼 <b>Open to:</b> Software Engineering · AI/ML · Cloud & DevOps roles<br/>
+  📫 <a href="mailto:navinduamerasinghe@gmail.com">navinduamerasinghe@gmail.com</a> &nbsp;|&nbsp; +358 44 950 8069
+</p>
