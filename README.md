@@ -13,10 +13,9 @@
 
 <p align="center">
   <a href="https://navindu-amerasinghe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="[https://www.linkedin.com/in/NavinduAmerasinghe](https://www.linkedin.com/in/NavinduAmerasinghe)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/navindu-amerasinghe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:navinduamerasinghe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
 ---
 
 ### 🧠 What I do
@@ -66,8 +65,8 @@ I build intelligent, secure software end-to-end — from **LLM/RAG pipelines** a
 > AI/IoT system detecting and preventing animal-vehicle collisions using YOLO and real-time sensors. WSA & NBQSA nominee, research-backed and published.
 > `Python` `YOLO` `IoT` `Computer Vision`
 
-** [EmotePulse Live](https://www.youtube.com/watch?v=jCfegf6E7zQ)** — Computer Vision + IoT
-> AI/IoT system detecting and preventing animal-vehicle collisions using YOLO and real-time sensors. WSA & NBQSA nominee, research-backed and published.
+**😀 [EmotePulse Live](https://www.youtube.com/watch?v=jCfegf6E7zQ)** —Reaction analytics platform
+> A real-time audience reaction analytics platform built using modern distributed system architecture and event-driven communication.
 > `Next.js`, `AMQP`, `RabbitMQ`, `Node.js`,`Nginx Reverse Proxy`,`WebSocket`
 
 ---
