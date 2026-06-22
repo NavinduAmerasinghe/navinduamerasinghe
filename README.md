@@ -1,4 +1,4 @@
-<img width="100%" alt="Navindu Amerasinghe" src="https://github.com/user-attachments/assets/7ec8436d-9f39-41d7-99ca-410df1fbb510" />
+<img width="1536" height="422" alt="navinduBanner" src="https://github.com/user-attachments/assets/7ec8436d-9f39-41d7-99ca-410df1fbb510" />
 
 <h1 align="center">Hi, I'm Navindu 👋</h1>
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://navindu-amerasinghe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/NavinduAmerasinghe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[https://www.linkedin.com/in/NavinduAmerasinghe](https://www.linkedin.com/in/NavinduAmerasinghe)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:navinduamerasinghe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -62,19 +62,35 @@ I build intelligent, secure software end-to-end — from **LLM/RAG pipelines** a
 > AI platform that flags vulnerabilities and surfaces secure-coding guidance via RAG, combining static analysis (Semgrep, Bandit) with JWT-secured APIs built on OWASP principles.
 > `FastAPI` `React` `LangChain` `FAISS/Chroma`
 
-**🦌 [AI Road Safety & Wildlife Protection](#)** — Computer Vision + IoT
+**🦌 [AI Road Safety & Wildlife Protection](https://www.youtube.com/watch?v=PJ-7MsQvMEI)** — Computer Vision + IoT
 > AI/IoT system detecting and preventing animal-vehicle collisions using YOLO and real-time sensors. WSA & NBQSA nominee, research-backed and published.
 > `Python` `YOLO` `IoT` `Computer Vision`
 
-<sub>↳ Replace the `#` links with your actual repo URLs once they're public.</sub>
+** [EmotePulse Live](https://www.youtube.com/watch?v=jCfegf6E7zQ)** — Computer Vision + IoT
+> AI/IoT system detecting and preventing animal-vehicle collisions using YOLO and real-time sensors. WSA & NBQSA nominee, research-backed and published.
+> `Next.js`, `AMQP`, `RabbitMQ`, `Node.js`,`Nginx Reverse Proxy`,`WebSocket`
 
 ---
 
 ### 📚 Selected Publications
 
-- **Real-Time Road Safety: Mitigating Animal-Vehicle Conflicts in Sri Lanka** — *IJISRT*, Vol. 9, Issue 8 (2024)
-- **IoT-Enhanced Smart Surveillance for Wildlife Collision Prevention** — N.D.K. Amerasinghe & Prof. A. Jayakody (2023)
-- **[Problems Faced by the Agricultural Sector & Solutions for Sri Lanka's Food Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4248740)** — *SSRN* (2022)
+🔹 **Real-Time Road Safety: A Web and Mobile Application Approach to Mitigating Animal-Vehicle Conflicts in Sri Lanka**  
+**Authors:** Navindu D.K. Amerasinghe et al.  
+**Published in:** International Journal of Innovative Science and Research Technology (IJISRT), Vol. 9, Issue 8, 2024  
+**Focus:** AI-powered road safety system using geofencing, computer vision, and IoT for wildlife collision prevention  
+🔗 https://www.scribd.com/document/785090682/Real-Time-Road-Safety-A-V
+
+🔹 **IoT-Enhanced Smart Surveillance System for Wildlife Collision Prevention on Sri Lankan Roads**  
+**Authors:** Navindu D.K. Amerasinghe, Prof. Anuradha Jayakody  
+**Year:** 2023  
+**Focus:** Edge-based IoT + real-time monitoring system for wildlife detection and driver alerting  
+🔗 https://www.scribd.com/document/681505017/IoT-Enhanced-Smart-Surveillance
+
+🔹 **Problems Faced by the Agricultural Sector and Solutions for the Impending Food Crisis in Sri Lanka**  
+**Author:** Navindu D.K. Amerasinghe  
+**Year:** 2022  
+**Focus:** Agricultural challenges, food security, and data-driven policy recommendations  
+🔗 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4248740
 
 ---
 
